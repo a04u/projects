@@ -21,7 +21,7 @@ Also shows pretty programming icons using `devicons`.
 To get projects, follow these steps:
 
 ```bash
-git clone https://github.com/2kabhishek/projects
+git clone https://github.com/andres04u/projects
 cd projects
 ```
 
