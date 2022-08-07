@@ -29,7 +29,7 @@ const displayProfile = function (profile) {
             <img alt="user avatar" src=${profile.avatar_url} />
         </figure>
         <div>
-            <h2><a href=${profile.blog}><strong>${profile.name}</strong></a></h2>
+            <h2 class="animate__animated animate__tada"><a href=${profile.blog}><strong>${profile.name}</strong></a></h2>
             <p>${profile.bio}</p>
             <p>
                 <strong>Location:</strong> ${profile.location}
@@ -71,7 +71,7 @@ const displayRepos = function (repos) {
         let listItem = document.createElement('li');
         listItem.classList.add('repo');
         listItem.innerHTML = `
-            <h3>${repo.name}</h3>
+            <h3 class="animate__animated animate__heartBeat">${repo.name}</h3>
             <span>${repo.description}</span> <br/><br/>
             <span>${devicons[repo.language]}</span> <br />
             <br />
