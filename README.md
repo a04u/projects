@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1><a href="https://andres04u.github.io/projects">Projects</a></h1>
+<h1><a href="https://avdyan.github.io/projects">Projects</a></h1>
 
 <h3>Showcase All Your Projects 🛍️🎇</h3>
 <figure>
@@ -21,7 +21,7 @@ Also shows pretty programming icons using `devicons`.
 To get projects, follow these steps:
 
 ```bash
-git clone https://github.com/andres04u/projects
+git clone https://github.com/avdyan/projects
 cd projects
 ```
 
@@ -60,7 +60,7 @@ displayed correctly for any of your repos, update `devicons` mapping in `script.
 
 ## Viewing projects
 
-Open `index.html` in your favorite browser or visit [andres04u.github.io/projects](https://andres04u.github.io/projects).
+Open `index.html` in your favorite browser or visit [avdyan.github.io/projects](https://avdyan.github.io/projects).
 
 ## How it was built
 
